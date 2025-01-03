@@ -1,1 +1,2 @@
-# Written-Judgment-Summarization
+- Team Project
+- Course: Fundamentals and Applications of Generative AI
